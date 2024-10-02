@@ -1,2 +1,2 @@
-nomre="Lentes"
-precio 35.25
+nomre="pantalon"
+precio = 35.25
